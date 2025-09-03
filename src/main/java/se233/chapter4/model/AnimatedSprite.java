@@ -7,8 +7,8 @@ import javafx.scene.image.ImageView;
 public class AnimatedSprite extends ImageView {
     int count, columns, rows, offsetX, offsetY, width, height, curIndex,
             curColumnIndex = 0, curRowIndex = 0;
-    public AnimatedSprite(Image image, int count, int columns, int rows,
-                          int offsetX, int offsetY, int width, int height) {
+    public AnimatedSprite(Image image, int count, int columns, int rows, int
+            offsetX, int offsetY, int width, int height) {
         this.setImage(image);
         this.count = count;
         this.columns = columns;
@@ -22,7 +22,7 @@ public class AnimatedSprite extends ImageView {
     public void tick() {
         curColumnIndex = curIndex % columns;
         curRowIndex = curIndex / columns;
-        curIndex = (curIndex+1) % (columns * rows);
+        curIndex = (curIndex + 1) % (columns * rows);
         interpolate();
     }
     protected void interpolate() {

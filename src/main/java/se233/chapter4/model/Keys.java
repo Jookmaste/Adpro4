@@ -16,6 +16,6 @@ public class Keys {
         keys.put(key, false);
     }
     public boolean isPressed(KeyCode key) {
-        return keys.getOrDefault(key, false);
+        return keys.getOrDefault(key,false);
     }
 }

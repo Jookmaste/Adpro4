@@ -16,7 +16,7 @@ public class Launcher extends Application {
         DrawingLoop drawingLoop = new DrawingLoop(gameStage);
         Scene scene = new Scene(gameStage, gameStage.WIDTH, gameStage.HEIGHT);
         scene.setOnKeyPressed(event-> gameStage.getKeys().add(event.getCode()));
-        scene.setOnKeyReleased(event -> gameStage.getKeys().remove(event.getCode()));
+        scene.setOnKeyReleased(event-> gameStage.getKeys().remove(event.getCode()));
         stage.setTitle("Mario");
         stage.setScene(scene);
         stage.show();
