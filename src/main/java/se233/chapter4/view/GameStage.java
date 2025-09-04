@@ -33,7 +33,8 @@ public class GameStage extends Pane {
         return keys;
     }
 
-    public void tick() {
 
+    public GameCharacter getGameCharacterList() {
+        return gameCharacter;
     }
 }
