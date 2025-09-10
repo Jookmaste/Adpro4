@@ -31,21 +31,6 @@ public class GameCharacter extends Pane {
     public int xMaxVelocity= 7;
     public int yMaxVelocity= 17;
 
-//    public GameCharacter(int x, int y, int offsetX, int offsetY, KeyCode leftKey, KeyCode rightKey, KeyCode upKey) {
-//        this.x = x;
-//        this.y = y;
-//        this.setTranslateX(x);
-//        this.setTranslateY(y);
-//        this.gameCharacterImg = new Image(Launcher.class.getResourceAsStream("assets/MarioSheet.png"));
-//        this.imageView = new AnimatedSprite(gameCharacterImg, 4, 4, 1, offsetX, offsetY, 16, 32);
-//        this.imageView.setFitWidth(CHARACTER_WIDTH);
-//        this.imageView.setFitHeight(CHARACTER_HEIGHT);
-//        this.leftKey = leftKey;
-//        this.rightKey = rightKey;
-//        this.upKey = upKey;
-//        this.getChildren().addAll(this.imageView);
-//    }
-
     public GameCharacter(int x, int y, int offsetX, int offsetY, String assetPath, int frameCount, int columns, int rows, int frameWidth, int frameHeight, KeyCode leftKey, KeyCode rightKey, KeyCode upKey) {
         this.x = x;
         this.y = y;

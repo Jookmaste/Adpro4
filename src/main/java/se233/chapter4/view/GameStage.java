@@ -14,6 +14,10 @@ public class GameStage extends Pane {
     public final static int GROUND = 300;
     private Image gameStageImg;
     private GameCharacter gameCharacter;
+    private GameCharacter mario;
+    private GameCharacter rockman;
+    public GameCharacter getMario() { return mario; }
+    public GameCharacter getRockman() { return rockman; }
     private Keys keys;
     public GameStage () {
         keys = new Keys();
@@ -22,22 +26,17 @@ public class GameStage extends Pane {
         backgroundImg.setFitHeight(HEIGHT);
         backgroundImg.setFitWidth(WIDTH);
 
-//        gameCharacter = new GameCharacter(30, 30,0,0, KeyCode.A,KeyCode.D,KeyCode.W);
-//        getChildren().addAll(backgroundImg, gameCharacter);
-//
-//        GameCharacter character2 = new GameCharacter(30, 30, 0, 0, KeyCode.LEFT, KeyCode.RIGHT, KeyCode.UP);
-//        character2.xMaxVelocity = 10;
-//        character2.yMaxVelocity = 20;
-//        character2.getImageView().setImage(new Image(Launcher.class.getResourceAsStream("assets/rockman.png")));
-//        getChildren().add(character2);
-
-        GameCharacter mario = new GameCharacter(
+        mario = new GameCharacter(
                 30, 30, 0, 0, "assets/MarioSheet.png", 4, 4, 1, 16, 32, KeyCode.A, KeyCode.D, KeyCode.W
         );
+        mario.xMaxVelocity = 7;
+        mario.yMaxVelocity = 17;
 
-        GameCharacter rockman = new GameCharacter(
+        rockman = new GameCharacter(
                 150, 30, 0, 0, "assets/rockman.png", 10, 5, 2, 404, 384, KeyCode.LEFT, KeyCode.RIGHT, KeyCode.UP
         );
+        rockman.xMaxVelocity = 12;
+        rockman.yMaxVelocity = 25;
 
         gameCharacter = mario;
         getChildren().addAll(backgroundImg, mario, rockman);
@@ -51,7 +50,6 @@ public class GameStage extends Pane {
     public Keys getKeys() {
         return keys;
     }
-
 
     public GameCharacter getGameCharacterList() {
         return gameCharacter;

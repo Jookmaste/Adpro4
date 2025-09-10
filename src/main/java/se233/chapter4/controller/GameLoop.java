@@ -40,7 +40,12 @@ public class GameLoop implements Runnable {
         public void run() {
             while (running) {
                 float time = System.currentTimeMillis();
-                update(gameStage.getGameCharacterList());
+
+//                update(gameStage.getGameCharacterList());
+
+                update(gameStage.getMario());
+                update(gameStage.getRockman());
+
                 time = System.currentTimeMillis() - time;
                 if (time < interval) {
                     try {
