@@ -27,16 +27,16 @@ public class GameStage extends Pane {
         backgroundImg.setFitWidth(WIDTH);
 
         mario = new GameCharacter(
-                30, 30, 0, 0, "assets/MarioSheet.png", 4, 4, 1, 16, 32, KeyCode.A, KeyCode.D, KeyCode.W
+                30, 30, 0, 0, "assets/MarioSheet.png", 4, 4, 1, 16, 32, KeyCode.A, KeyCode.D, KeyCode.W,32,64
         );
-        mario.xMaxVelocity = 7;
-        mario.yMaxVelocity = 17;
+        mario.xMaxVelocity = 3;
+        mario.yMaxVelocity = 10;
 
         rockman = new GameCharacter(
-                150, 30, 0, 0, "assets/rockman.png", 10, 5, 2, 404, 384, KeyCode.LEFT, KeyCode.RIGHT, KeyCode.UP
+                150, 30, 0, 0, "assets/rockman.png", 5, 5, 1, 540, 440, KeyCode.LEFT, KeyCode.RIGHT, KeyCode.UP,95,70
         );
-        rockman.xMaxVelocity = 12;
-        rockman.yMaxVelocity = 25;
+        rockman.xMaxVelocity = 25;
+        rockman.yMaxVelocity = 20;
 
         gameCharacter = mario;
         getChildren().addAll(backgroundImg, mario, rockman);
