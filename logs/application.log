@@ -3559,3 +3559,81 @@
 [ INFO] 2025-09-11 09:59: 48. 827 [Thread-3] trace GameCharacter x:621 y:236 vx:3 vy:0
 [ INFO] 2025-09-11 09:59: 48. 928 [Thread-3] trace GameCharacter x:603 y:236 vx:3 vy:0
 [ INFO] 2025-09-11 09:59: 49. 029 [Thread-3] trace GameCharacter x:585 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 28. 585 [Thread-3] trace GameCharacter x:30 y:245 vx:0 vy:0
+[ INFO] 2025-10-08 22:45: 28. 688 [Thread-3] trace GameCharacter x:48 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 28. 789 [Thread-3] trace GameCharacter x:66 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 28. 790 [Thread-3] trace GameCharacter x:66 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 28. 891 [Thread-3] trace GameCharacter x:84 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 28. 891 [Thread-3] trace GameCharacter x:84 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 28. 993 [Thread-3] trace GameCharacter x:105 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 28. 994 [Thread-3] trace GameCharacter x:105 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 094 [Thread-3] trace GameCharacter x:123 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 095 [Thread-3] trace GameCharacter x:123 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 196 [Thread-3] trace GameCharacter x:141 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 196 [Thread-3] trace GameCharacter x:141 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 297 [Thread-3] trace GameCharacter x:159 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 398 [Thread-3] trace GameCharacter x:177 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 399 [Thread-3] trace GameCharacter x:177 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 500 [Thread-3] trace GameCharacter x:198 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 501 [Thread-3] trace GameCharacter x:198 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 602 [Thread-3] trace GameCharacter x:216 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 603 [Thread-3] trace GameCharacter x:216 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 704 [Thread-3] trace GameCharacter x:234 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 806 [Thread-3] trace GameCharacter x:252 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 29. 907 [Thread-3] trace GameCharacter x:270 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 008 [Thread-3] trace GameCharacter x:288 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 009 [Thread-3] trace GameCharacter x:288 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 109 [Thread-3] trace GameCharacter x:309 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 110 [Thread-3] trace GameCharacter x:309 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 211 [Thread-3] trace GameCharacter x:327 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 312 [Thread-3] trace GameCharacter x:345 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 413 [Thread-3] trace GameCharacter x:327 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 414 [Thread-3] trace GameCharacter x:327 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 515 [Thread-3] trace GameCharacter x:309 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 515 [Thread-3] trace GameCharacter x:309 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 617 [Thread-3] trace GameCharacter x:291 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 617 [Thread-3] trace GameCharacter x:291 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 718 [Thread-3] trace GameCharacter x:270 y:245 vx:3 vy:0
+[DEBUG] 2025-10-08 22:45: 30. 733 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[DEBUG] 2025-10-08 22:45: 30. 750 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[DEBUG] 2025-10-08 22:45: 30. 767 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[DEBUG] 2025-10-08 22:45: 30. 785 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[DEBUG] 2025-10-08 22:45: 30. 802 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[ INFO] 2025-10-08 22:45: 30. 819 [Thread-3] trace GameCharacter x:252 y:245 vx:3 vy:0
+[DEBUG] 2025-10-08 22:45: 30. 819 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[ INFO] 2025-10-08 22:45: 30. 919 [Thread-3] trace GameCharacter x:252 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 30. 920 [Thread-3] trace GameCharacter x:252 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 31. 021 [Thread-3] trace GameCharacter x:234 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 31. 022 [Thread-3] trace GameCharacter x:234 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 31. 123 [Thread-3] trace GameCharacter x:252 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 31. 123 [Thread-3] trace GameCharacter x:252 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 31. 224 [Thread-3] trace GameCharacter x:270 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 31. 324 [Thread-3] trace GameCharacter x:288 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 31. 325 [Thread-3] trace GameCharacter x:288 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 31. 426 [Thread-3] trace GameCharacter x:309 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 31. 427 [Thread-3] trace GameCharacter x:309 y:245 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 31. 729 [Thread-3] trace GameCharacter x:327 y:203 vx:3 vy:2
+[ INFO] 2025-10-08 22:45: 31. 830 [Thread-3] trace GameCharacter x:345 y:236 vx:3 vy:8
+[ INFO] 2025-10-08 22:45: 32. 132 [Thread-3] trace GameCharacter x:366 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 32. 133 [Thread-3] trace GameCharacter x:366 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 32. 234 [Thread-3] trace GameCharacter x:348 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 32. 234 [Thread-3] trace GameCharacter x:348 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 32. 335 [Thread-3] trace GameCharacter x:330 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 32. 335 [Thread-3] trace GameCharacter x:330 y:236 vx:3 vy:0
+[DEBUG] 2025-10-08 22:45: 32. 422 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[ INFO] 2025-10-08 22:45: 32. 436 [Thread-3] trace GameCharacter x:312 y:236 vx:3 vy:0
+[DEBUG] 2025-10-08 22:45: 32. 440 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[DEBUG] 2025-10-08 22:45: 32. 456 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[DEBUG] 2025-10-08 22:45: 32. 473 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[DEBUG] 2025-10-08 22:45: 32. 489 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[DEBUG] 2025-10-08 22:45: 32. 507 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[DEBUG] 2025-10-08 22:45: 32. 524 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[ INFO] 2025-10-08 22:45: 32. 537 [Thread-3] trace GameCharacter x:294 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 32. 537 [Thread-3] trace GameCharacter x:294 y:236 vx:3 vy:0
+[DEBUG] 2025-10-08 22:45: 32. 540 [Thread-4] checkReachGameWall GameCharacter เดินติดแล้ว
+[ INFO] 2025-10-08 22:45: 32. 638 [Thread-3] trace GameCharacter x:312 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 32. 639 [Thread-3] trace GameCharacter x:312 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 32. 740 [Thread-3] trace GameCharacter x:333 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 32. 741 [Thread-3] trace GameCharacter x:333 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 32. 942 [Thread-3] trace GameCharacter x:351 y:236 vx:3 vy:0
+[ INFO] 2025-10-08 22:45: 32. 943 [Thread-3] trace GameCharacter x:351 y:236 vx:3 vy:0
